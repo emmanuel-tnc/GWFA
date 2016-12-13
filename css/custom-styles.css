@@ -222,7 +222,7 @@ ul{margin: 0 !important;}
 	.menu .navbar .nav > li > a {color: #9dc3d0; font-size: 16px; text-shadow: none; padding: 20px 15px;}
 	.menu .navbar .nav > li > a:hover{color: #f9b701;}
 
-	.banner{text-align: center;  background: url(../img/bqnner_bg1.jpg) repeat;}
+	.banner{text-align: center;  background: url(../img/bqnner_bg1.jpg);}
 	.banner .carousel{margin-bottom: 0;}
 	.banner .carousel-inner > .item > img{display: inline-block; margin-top: 275px;}
 	.banner .carousel-caption{background: none; top:14%; }
